@@ -1,5 +1,5 @@
 <h2 align="center">Hello there 👋 It's Jugal Kishore Chanda 😃 </h2>
-<h4 align="center"><i>Web Developer 🌱</i></h4>
+<h4 align="center"><i> 🌱 Web Developer 🌱</i></h4>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/jugal-kishore-chanda/" target="_blank">
