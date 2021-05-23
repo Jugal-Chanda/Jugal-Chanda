@@ -13,8 +13,9 @@
 
 <p align="center">
   
-  <h3>Technical Skills</h3>
-  
+  <h3 align="center">Technical Skills</h3>
+  <h4>Language</h4>
+  <hr>
   
   
 </p>
