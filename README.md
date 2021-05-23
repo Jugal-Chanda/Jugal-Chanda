@@ -18,7 +18,7 @@
 <h3 align="center">Technical Skills</h3>
 <h4>Programming Languages</h4>
 <hr>
-<spna><img src="images/python.png" alt="" width="30px" title="Python"></span><span><img src="images/php.png" alt="" width="30px" title="PHP"></span><img src="images/js.png" alt="" width="30x" title="JavaScript">
+<code><img src="images/python.png" alt="" width="30px" title="Python"></code><code><img src="images/php.png" alt="" width="30px" title="PHP"></code><img src="images/js.png" alt="" width="30x" title="JavaScript">
 <img src="images/c.png" alt="" width="30px" title="C"><img src="images/cpp.png" alt="" width="30px" title="C++"><img src="images/arduino.png" alt="" width="30px" title="Arduino">
 
 <h4>Scripting Languages</h4>
