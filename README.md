@@ -18,7 +18,7 @@
   <h3 align="center">Technical Skills</h3>
   <h4>Language</h4>
   <hr>
-  <img src="images/python.png" alt="">
+  <code><img src="images/python.png" alt="" width="50px"></code>
   
   
 </p>
