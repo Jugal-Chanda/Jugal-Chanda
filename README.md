@@ -19,23 +19,16 @@
 <h3 align="center">Technical Skills</h3>
 <h4>Programming Languages</h4>
 <hr>
-<img src="images/python.png" alt="" width="30px" title="Python">
-<img src="images/php.png" alt="" width="30px" title="PHP">
-<img src="images/js.png" alt="" width="30x" title="JavaScript">
-<img src="images/c.png" alt="" width="30px" title="C">
-<img src="images/cpp.png" alt="" width="30px" title="C++">
-<img src="images/arduino.png" alt="" width="30px" title="Arduino">
+<img src="images/python.png" alt="" width="30px" title="Python"><img src="images/php.png" alt="" width="30px" title="PHP"><img src="images/js.png" alt="" width="30x" title="JavaScript">
+<img src="images/c.png" alt="" width="30px" title="C"><img src="images/cpp.png" alt="" width="30px" title="C++"><img src="images/arduino.png" alt="" width="30px" title="Arduino">
 
 <h4>Scripting Languages</h4>
 <hr>
-<img src="images/html.png" alt="" width="30px" title="HTML">
-<img src="images/css.png" alt="" width="30px" title="CSS">
+<img src="images/html.png" alt="" width="30px" title="HTML"><img src="images/css.png" alt="" width="30px" title="CSS">
 
 <h4>FrameWorks</h4>
 <hr>
-<img src="images/laravel.png" alt="" width="30px" title="Laravel">
-<img src="images/django.png" alt="" width="30px" title="Django">
-<img src="images/bootstrap.png" alt="" width="30px" title="Bootstrap 4">
+<img src="images/laravel.png" alt="" width="30px" title="Laravel"><img src="images/django.png" alt="" width="30px" title="Django"><img src="images/bootstrap.png" alt="" width="30px" title="Bootstrap 4">
 
 <h4>FrameWorks</h4>
 <hr>
