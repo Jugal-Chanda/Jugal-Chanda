@@ -21,7 +21,7 @@
   <code><img src="images/python.png" alt="" width="50px"></code>
   <code><img src="images/php.png" alt="" width="50px"></code>
   <code><img src="images/js.png" alt="" width="50px"></code>
-  <code><img src="images/js.png" alt="" width="50px"></code>
+  <code><img src="images/cpp.png" alt="" width="50px"></code>
   <code><img src="images/c.png" alt="" width="50px"></code>
   
   
