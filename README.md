@@ -13,7 +13,6 @@
       src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30">
   </a>
 </p>
-🦋
 <p align="center">
 
 <h3 align="center">Technical Skills</h3>
