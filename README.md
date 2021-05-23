@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/9ec2b217e3.js" crossorigin="anonymous"></script>
+
 <h2 align="center">Hello there 👋 It's Jugal Kishore Chanda 😃 </h2>
 <h4 align="center"><i> 🌱 Web Developer 🌱</i></h4>
 <br>
@@ -18,7 +20,7 @@
   <hr>
   <img title="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <code><img title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-  <code><img title="c" height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+  <code><i class="fab fa-python"></i>abcd</code>
   
   
 </p>
