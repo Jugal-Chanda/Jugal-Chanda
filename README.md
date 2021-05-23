@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/9ec2b217e3.js" crossorigin="anonymous"></script>
-
 <h2 align="center">Hello there 👋 It's Jugal Kishore Chanda 😃 </h2>
 <h4 align="center"><i> 🌱 Web Developer 🌱</i></h4>
 <br>
