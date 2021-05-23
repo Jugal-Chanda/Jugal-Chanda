@@ -18,8 +18,8 @@
   <h3 align="center">Technical Skills</h3>
   <h4>Language</h4>
   <hr>
-  <code><img src="images/python.png" alt="" width="20px"></code>
-  <code><img src="images/php.png" alt="" width="20px"></code>
+  <code><img src="images/python.png" alt="" width="25px"></code>
+  <code><img src="images/php.png" alt="" width="25px"></code>
   <code><img src="images/js.png" alt="" width="50px"></code>
   <code><img src="images/cpp.png" alt="" width="50px"></code>
   <code><img src="images/c.png" alt="" width="50px"></code>
