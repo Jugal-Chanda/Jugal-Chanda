@@ -27,11 +27,14 @@
 
 <h4>Scripting Languages</h4>
 <hr>
-<img src="images/html.png" alt="" width="30px" title="HTML"><img src="images/css.png" alt="" width="30px" title="CSS">
+<span><img src="images/html.png" alt="" width="30px" title="HTML"></span>
+<span><img src="images/css.png" alt="" width="30px" title="CSS"></span>
 
 <h4>FrameWorks</h4>
 <hr>
-<img src="images/laravel.png" alt="" width="30px" title="Laravel"><img src="images/django.png" alt="" width="30px" title="Django"><img src="images/bootstrap.png" alt="" width="30px" title="Bootstrap 4">
+<span><img src="images/laravel.png" alt="" width="30px" title="Laravel"></span>
+<span><img src="images/django.png" alt="" width="30px" title="Django"></span>
+<span><img src="images/bootstrap.png" alt="" width="30px" title="Bootstrap 4"></span>
 
 <h4>FrameWorks</h4>
 <hr>
